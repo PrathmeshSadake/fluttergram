@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "429568883650",
+    "project_id": "prathmeshsadake-fluttergram",
+    "storage_bucket": "prathmeshsadake-fluttergram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429568883650:android:33506723108bf84ab5745b",
+        "android_client_info": {
+          "package_name": "com.example.fluttergram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429568883650-itj43rql9k4fol37mbd1q6g780su46vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9mns_nF11I3fb455me8A8QcOYFvkk-ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429568883650-itj43rql9k4fol37mbd1q6g780su46vr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429568883650-nv61ek53taplo1d8rd1ehbnprao9htb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fluttergram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
